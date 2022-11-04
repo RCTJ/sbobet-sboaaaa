@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle sbobet-sboaaaa",
+        "command": "sbobet-sboaaaa:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "sbobet-sboaaaa",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "sbobet-sboaaaa:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
