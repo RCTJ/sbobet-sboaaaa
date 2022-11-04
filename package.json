@@ -1,10 +1,9 @@
 {
   "name": "sbobet-sboaaaa",
   "main": "./lib/sbobet-sboaaaa",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "sbobet sbo แทงบอลออนไลน์ 1",
-  "keywords": [
-  ],
+  "keywords": [],
   "activationCommands": {
     "atom-workspace": "sbobet-sboaaaa:toggle"
   },
@@ -13,6 +12,5 @@
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }
