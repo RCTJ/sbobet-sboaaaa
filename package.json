@@ -8,7 +8,7 @@
   "activationCommands": {
     "atom-workspace": "sbobet-sboaaaa:toggle"
   },
-  "repository": "https://github.com/SBOAAAA/sbobet-sboaaaa",
+  "repository": "https://github.com/RCTJ/sbobet-sboaaaa",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
